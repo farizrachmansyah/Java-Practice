@@ -1,3 +1,3 @@
 # Practice
-Semua hasil latihan
-Feel free to copy the source code
+Semua hasil latihan.
+Feel free to copy the source code.
